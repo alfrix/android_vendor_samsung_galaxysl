@@ -117,7 +117,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxysl/proprietary/wifi/bin/tiwlan_cu:system/bin/tiwlan_cu \
     vendor/samsung/galaxysl/proprietary/wifi/bin/tiwlan_loader:system/bin/tiwlan_loader \
     vendor/samsung/galaxysl/proprietary/wifi/bin/tiwlan_plts:system/bin/tiwlan_plts \
-    vendor/samsung/galaxysl/proprietary/wifi/bin/wpa_supplicant:system/bin/wpa_supplicant
+    vendor/samsung/galaxysl/proprietary/wifi/bin/wpa_supplicant:system/bin/wpa_supplicant \
+    vendor/samsung/galaxysl/proprietary/wifi/bin/dhcpcd:system/bin/dhcpcd 
 
 # bluetooth
 PRODUCT_COPY_FILES += \
